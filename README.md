@@ -10,9 +10,3 @@
 
 ---
 
-##  Guide d'Exécution
-
-### 1. Vérification de l'environnement
-[cite_start]Vérifiez que la commande `openssl` est installée sur votre système[cite: 10]:
-```bash
-openssl version
